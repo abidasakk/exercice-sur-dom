@@ -1,0 +1,21 @@
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+}
+
+.ouvert{
+background-image: url('abdaalu.jpg');
+
+}
+.lampe{
+    
+    width: 800px;
+    height: 600px;
+}
+
+.on{
+    width:90px;
+    height: 40px;
+    background-color: brown;
+}
